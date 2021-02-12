@@ -9,7 +9,7 @@ In order to use this software properly, a camera that shoots forest with the sky
 When all hardware is installed, the camera takes a shot for calibration image in the morning time with a clear sky.<br>
 The images that taken from this camera can be used as input check image in ASB-Forest-Fire-Detector.py to check if there is any fire thread exists.
 
-### How It Works?
+### How It Works? (Basically)
 
 1. Resize calibration image.
 2. Sky and ground seperates with a black-white mask in calibration image.
