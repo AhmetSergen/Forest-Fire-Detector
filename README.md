@@ -20,19 +20,26 @@ The images that taken from this camera can be used as input check image in ASB-F
 
 ## Test Screen Shots
 
-Test for a check image of forest with no fire or smoke.
+Test for a check image of forest with no fire and no smoke.
 <img src="https://github.com/AhmetSergen/Forest-Fire-Detector/blob/master/test1.JPG" width="100%" alt="test1">
 
+Test for a check image of forest with only fire.
 <img src="https://github.com/AhmetSergen/Forest-Fire-Detector/blob/master/test2.JPG" width="100%" alt="test2">
 
+Test for a check image of forest with only smoke.
 <img src="https://github.com/AhmetSergen/Forest-Fire-Detector/blob/master/test3.JPG" width="100%" alt="test3">
 
+Test for a check image of forest with fire and smoke.
 <img src="https://github.com/AhmetSergen/Forest-Fire-Detector/blob/master/test4.JPG" width="100%" alt="test4">
 
+Test for another check image of forest with no fire and no smoke.
 <img src="https://github.com/AhmetSergen/Forest-Fire-Detector/blob/master/test5.JPG" width="100%" alt="test5">
 
+Test for another check image of forest with no fire and no smoke.
 <img src="https://github.com/AhmetSergen/Forest-Fire-Detector/blob/master/test6.JPG" width="100%" alt="test6">
 
+Test for another check image of forest with no fire and no smoke.
 <img src="https://github.com/AhmetSergen/Forest-Fire-Detector/blob/master/test7.JPG" width="100%" alt="test7">
 
+Test for another check image of forest with no fire and no smoke.
 <img src="https://github.com/AhmetSergen/Forest-Fire-Detector/blob/master/test8.JPG" width="100%" alt="test8">
