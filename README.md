@@ -20,3 +20,4 @@ The images that taken from this camera can be used as input check image in ASB-F
 
 ## Test Screen Shots
 
+<img src="https://github.com/AhmetSergen/Forest-Fire-Detector/blob/master/test1.jpg" width="350" alt="test1">
